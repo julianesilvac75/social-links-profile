@@ -77,8 +77,6 @@ main {
 }
   
 .social-links li {
-  /* background-color: var(--grey); */
-  /* border-radius: 8px; */
   display: flex;
   list-style: none;
   text-align: center;
