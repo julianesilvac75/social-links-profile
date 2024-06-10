@@ -95,6 +95,24 @@ main {
   width: 100%;
 }
 
+.attribution {
+  color: var(--grey);
+  font-size: 0.75rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.attribution p a {
+  color: var(--white);
+  font-style: italic;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.attribution p a:hover {
+  color: var(--green);
+}
+
 @media (min-width: 600px) {
   .profile-container {
     width: 24rem;
