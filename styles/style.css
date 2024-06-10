@@ -27,9 +27,11 @@ main {
 .profile-container {
   align-items: center;
   background-color: var(--dark-grey);
+  border-radius: 0.75rem;
   display: flex;
   flex-direction: column;
   padding: 1.5rem;
+  width: 24rem;
 }
 
 .user-info-section {
@@ -40,5 +42,5 @@ main {
 
 .user-avatar {
   border-radius: 50%;
-  width: 5rem;
+  width: 5.5rem;
 }
