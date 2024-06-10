@@ -59,3 +59,8 @@ main {
   font-weight: 700;
   line-height: 150%;
 }
+
+.user-description {
+  color: var(--white);
+  font-size: 0.875rem;
+}
